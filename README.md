@@ -1,3 +1,4 @@
 # linux_fromzero
 
-- name : jong hyun park
+- name : ko young uk
+- date : 2025.09.09
