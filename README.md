@@ -1,4 +1,4 @@
 # linux_fromzero
 
 - name : ko young uk
-- date : 2025.09.09
+- date : 2025.01.09
